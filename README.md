@@ -135,3 +135,16 @@ Lost-Found-Portal
 
 This project was built as part of a learning journey in **Java backend development, Spring MVC architecture, and database integration**.
 It demonstrates practical implementation of **CRUD operations in a web-based system**.
+
+
+## 📸 Project Screenshots
+
+![Home](screenshots/home-page.jpeg)
+
+![Add Item](screenshots/add-item.jpeg)
+
+![View Items](screenshots/view-items.jpeg)
+
+![Edit Item](screenshots/edit-item.jpeg)
+
+![Search Item](screenshots/search-item.jpeg)
